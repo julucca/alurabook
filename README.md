@@ -5,7 +5,7 @@ Repositório com projeto AluraBook desenvolvido durante o curso JavaScript: mét
 ## 📁 Detalhes do projeto
 
 <div align="center">
-	<img width=300px src="./imagens/Logo-1.png">
+	<img width=300px src="./imagens/git-screen.png">
 </div><br>
 
 O AluraBook é um e-commerce de livros de programação fictício.
@@ -52,5 +52,6 @@ Nessa fase o projeto está disponível apenas para desktops com resolução a pa
 
 <hr>
 
-Desenvolvido com 💙 por [Juliana Lucca](https://www.linkedin.com/in/julianalucca/)
+Desenvolvido com 💙 por [Juliana Lucca](https://www.linkedin.com/in/julianalucca/).
+
 Projeto original desenvolvido por [Alura](https://www.alura.com.br/).
